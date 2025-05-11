@@ -1,0 +1,23 @@
+{
+  "name": "tp7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "apiGateway.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@apollo/server": "^4.12.0",
+    "@grpc/grpc-js": "^1.13.3",
+    "@grpc/proto-loader": "^0.7.13",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "kafkajs": "^2.2.4",
+    "mongoose": "^8.13.2",
+    "tp7": "file:"
+  }
+}
